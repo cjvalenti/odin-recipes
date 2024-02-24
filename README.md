@@ -1,0 +1,1 @@
+I worked on this project (Project: Recipes) in order to develop my basic HTML skills. The skills I will leverage include creating HTML boilerplate, bolding/italicizing text, creating paragraphs, links, images and so-on. By the end of this lesson I will be able to create a very simple (or perhaps 'brutalist') website. 
